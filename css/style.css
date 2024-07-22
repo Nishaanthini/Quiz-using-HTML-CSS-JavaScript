@@ -1,0 +1,39 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+h1{
+    text-align: left;
+    padding-left: 10%;
+    padding-top: 5%;
+}
+button{
+    width: 80%;
+    height: 30px;
+    margin-bottom: 20px;
+}
+.ques{
+    border: 1px solid transparent;
+    width: 600px;
+    text-align: center;
+    margin: 10% auto;
+    background-color:rgb(249, 231, 234);
+}
+.a{
+    color: white;
+    position: relative;
+    width: 10%;
+    height:30px;
+    left:60px;
+    top:30px;
+    background-color: rgb(184, 117, 127);
+}
+.d{
+    color: white;
+    position: relative;
+    width: 10%;
+    height:30px;
+    left:60px;
+    top:30px;
+    background-color:rgb(184, 117, 127);
+}
